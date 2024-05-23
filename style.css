@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background: #151B54;
+    width: 100%;
+    height:auto;
+}
+.formcontainer{
+    background-color:#DDA0DD;
+    width: 100%;
+    height: auto;
+    display: flex;
+    
+    align-items: center;
+    justify-content: center;
+    padding: 80px 20px;
+}
+.loginform{
+    background-color: #1ce4bf;
+    width: 30%;
+    height: auto;
+}
+form{
+    background-color:#ff00ff ;
+    width: 100%;
+    height: auto;
+}
+.formgroup{
+    display: flex;
+    background:#ff4500;
+    width: 100%;
+    height: auto;
+    padding: 60px 15px;
+    justify-content: center;
+    
+    
+}
+.input {
+    background: #fff;
+    width: auto;
+    height:auto;
+    padding: 20px 5px;
+    text-align: center;
+    line-height: 2em;
+    border: 1px solid;
+}
+
+.icon{
+    padding:5px;
+    background:white;
+    color: #000;
+    min-width: 10px;
+    text-align: center;
+    
+
+}
